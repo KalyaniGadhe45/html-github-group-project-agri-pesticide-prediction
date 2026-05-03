@@ -76,6 +76,31 @@ The system provides a simple interface where users can enter information and vie
 
 ---
 
+
+## 👥 Contributors
+
+<a href="https://github.com/shubhamsharnagate">
+  <img src="https://github.com/shubhamsharnagate.png?size=80" width="80" height="80" style="border-radius:50%;" />
+  <a href="https://github.com/prajaktadharpure28">
+  <img src="https://github.com/prajaktadharpure28.png?size=80" width="80" height="80" style="border-radius:50%;" />
+</a>
+</a>
+<a href="https://github.com/Kaweri05">
+  <img src="https://github.com/Kaweri05.png?size=80" width="80" height="80" style="border-radius:50%;" />
+</a>
+<a href="https://github.com/KalyaniGadhe45">
+  <img src="https://github.com/KalyaniGadhe45.png?size=80" width="80" height="80" style="border-radius:50%;" />
+</a>
+<a href="https://github.com/pranalishende">
+  <img src="https://github.com/pranalishende.png?size=80" width="80" height="80" style="border-radius:50%;" />
+</a>
+<a href="https://github.com/nagadesakshi">
+  <img src="https://github.com/nagadesakshi.png?size=80" width="80" height="80" style="border-radius:50%;" />
+</a>
+
+--- 
+
+
 ## 📷 Project Preview
 ![login page](image/project-screenshot/login-screenshot.png)
 ![register page](image/project-screenshot/register-screenshot.png)
