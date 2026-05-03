@@ -77,8 +77,14 @@ The system provides a simple interface where users can enter information and vie
 ---
 
 ## 📷 Project Preview
-![prediction page](img/project-screenshot/prediction-screenshot.png)
-![result page](img/project-screenshot/result-screenshot.png)
+![login page](image/project-screenshot/login-screenshot.png)
+![register page](image/project-screenshot/register-screenshot.png)
+![home page](image/project-screenshot/home-screenshot.png)
+![prediction page](image/project-screenshot/prediction-screenshot.png)
+![result page](image/project-screenshot/result-screenshot.png)[
+![about page](image/project-screenshot/about-screenshot.png)
+![contact page](image/project-screenshot/contact-screenshot.png)
+
 
 ---
 
